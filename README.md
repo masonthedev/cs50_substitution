@@ -17,12 +17,20 @@ Used function 'substitute' to implement the substitution of the characters based
 tested code with:
 
 "A" as "Z" using ZYXWVUTSRQPONMLKJIHGFEDCBA as key
+
 "a" as "z" using ZYXWVUTSRQPONMLKJIHGFEDCBA as key
+
 "ABC" as "NJQ" using NJQSUYBRXMOPFTHZVAWCGILKED as key
+
 "XyZ" as "KeD" using NJQSUYBRXMOPFTHZVAWCGILKED as key
+
 "This is CS50" as "Cbah ah KH50" using YUKFRNLBAVMWZTEOGXHCIPJSQD as key
+
 "This is CS50" as "Cbah ah KH50" using yukfrnlbavmwzteogxhcipjsqd as key
+
 "This is CS50" as "Cbah ah KH50" using YUKFRNLBAVMWZteogxhcipjsqd as key
+
 encrypts all alphabetic characters using DWUSXNPQKEGCZFJBTLYROHIAVM as key
+
 does not encrypt non-alphabetical characters using DWUSXNPQKEGCZFJBTLYROHIAVM as key
 
